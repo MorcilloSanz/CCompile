@@ -1,0 +1,11 @@
+# COMPILER: g++
+# FILES: main.cpp, ball.cpp
+# LINKER: -lopengl32, -std=c++11
+# EXE: test.exe
+# AUTHOR: author
+
+COMPILER: 
+FILES: 
+LINKER: 
+EXE: 
+AUTHOR: alber
