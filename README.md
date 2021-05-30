@@ -1,5 +1,5 @@
 # CCompile
-Compile C and C++ files
+Compile C and C++ files with Python
 
 ## Generate .compile and compile files
 First we need to generate the .compile file
