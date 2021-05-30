@@ -1,0 +1,5 @@
+COMPILER: g++
+FILES: main.cpp, Ball.cpp
+LINKER: -std=c++11
+EXE: ball
+AUTHOR: alber6morci
